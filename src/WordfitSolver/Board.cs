@@ -5,10 +5,7 @@ using System.Threading.Tasks;
 
 namespace WordfitSolver
 {
-    public class Class1
+    public sealed class Board
     {
-        public Class1()
-        {
-        }
     }
 }
